@@ -1,5 +1,5 @@
 (function (window) {
-
+    console.log("sjfbakjbsfsajbdkabdkajsbdkasjbdkb");
     // declare
     var myApp = {};
 
